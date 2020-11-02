@@ -30,4 +30,4 @@ Based on historical funding data from more than 34,000 organizations, my goal is
 
 Overall, the deep learning model was able to achieve a 100% accuracy in determining whether a grantee will be successful in the future, based on many features as mentionned above. 
 
-Due to the nature of the data, we could also use a unsupervised machine learning model in order to solve the classification issue. This is because we do not know what features will impact the classification, therefore we should not predict which model to use. However with an unsupervised model, the model itself can determine how to cluster the input data. 
+Due to the nature of the data, we could also use a unsupervised machine learning model in order to solve the classification issue. This is because we do not know what features will impact the classification, therefore we should not predict which model to use. However with an unsupervised model, the model itself can determine how to cluster the input data and give more optimal results.
